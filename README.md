@@ -1,0 +1,1 @@
+This project involves using Terraform to deploy a simple web server on AWS. The setup includes creating an EC2 instance, a security group, and installing a basic web server (like Nginx) on the instance. This project demonstrates fundamental Terraform skills, including resource provisioning, using variables, and handling basic AWS infrastructure.
